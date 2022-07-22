@@ -67,7 +67,10 @@
 }
 
 body{
-    background:blue;
+    background-image: url(./wp5823236-8k-desktop-hd-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 ::selection{
@@ -356,7 +359,7 @@ footer button{
 }
 
 footer button:hover{
-    background: #6dca02;
+    background: #0263ca;
 }
 
 footer button.show{
