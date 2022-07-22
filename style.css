@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 *{
     margin: 0;
@@ -50,7 +49,7 @@
 
 .buttons button.restart{
     color: #fff;
-    background: #007bff;
+    background: #3e75b0;
 }
 
 .buttons button.restart:hover{
@@ -357,7 +356,7 @@ footer button{
 }
 
 footer button:hover{
-    background: #0263ca;
+    background: #6dca02;
 }
 
 footer button.show{
